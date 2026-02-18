@@ -43,10 +43,15 @@ file:simple calculator
 
 output:
 Enter first number: 10
+
 Enter second number: 5
+
 Addition = 15.00
+
 Subtraction = 5.00
+
 Multiplication = 50.00
+
 Division = 2.00
 
 
