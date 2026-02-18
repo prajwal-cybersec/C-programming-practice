@@ -1,5 +1,6 @@
 # C-programming-practice
-Day 1- Hello world
+Day 1:
+Hello world
 
 file: Hello.c
 
@@ -8,28 +9,28 @@ Hello World!
 
 Day 2:
 
-1.addition
+1. Addition
 
 file: addition.c
 
 output:
 5+3=8
 
-2. division
+2. Division
 
 file:division.c
 
 output:
 6/3=2
 
-3. multiplication
+3. Multiplication
 
 file: multiplication.c
 
 output:
 5*5=25
 
-4. subtraction
+4. Subtraction
 
 file:subtraction.c
 
