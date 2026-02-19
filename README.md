@@ -86,6 +86,22 @@ Enter a number: 6
 
 Square of 6 = 36
 
+4.Arthematic operators
+
+file:Arthematic operators.c
+
+output:
+
+a = 12
+b = 5
+
+Addition (+) = 17
+Subtraction (-) = 7
+Multiplication (*) = 60
+Division (/) = 2
+Modulus (%) = 2
+
+
 
 
 
