@@ -96,9 +96,13 @@ a = 12
 b = 5
 
 Addition (+) = 17
+
 Subtraction (-) = 7
+
 Multiplication (*) = 60
+
 Division (/) = 2
+
 Modulus (%) = 2
 
 5.Logical operators
@@ -111,8 +115,11 @@ a = 1
 b = 0
 
 Logical AND (a && b) = 0
+
 Logical OR (a || b) = 1
+
 Logical NOT (!a) = 0
+
 Logical NOT (!b) = 1
 
 
