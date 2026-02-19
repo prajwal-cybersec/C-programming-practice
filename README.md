@@ -88,7 +88,7 @@ Square of 6 = 36
 
 4.Arthematic operators
 
-file:Arthematic operators.c
+file:Arthematic.c
 
 output:
 
@@ -101,6 +101,19 @@ Multiplication (*) = 60
 Division (/) = 2
 Modulus (%) = 2
 
+5.Logical operators
+
+file:Logical.c
+
+output:
+
+a = 1
+b = 0
+
+Logical AND (a && b) = 0
+Logical OR (a || b) = 1
+Logical NOT (!a) = 0
+Logical NOT (!b) = 1
 
 
 
